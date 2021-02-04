@@ -55,3 +55,8 @@ Additionally, the Japanese (and Western forces alike) placed heavy **emphasis on
 **The Russian Government was portrayed as incompetent in global opinion.** Britain, in particular, celebrated the defeat, as their own civilian ships had been sunk by Russian battleships who mistook the ships for Japanese cruisers, leading to severe diplomatic fallout and poor public opinion of Russia. In a translated account from a Russian sailor, the English translator noted that while the account was negative on the subject of Britain, “\[he\] has ably exposed the corruptibility of the Russian Government and its inability to cope with the great needs which were demanded of it.” Similar sentiments were reflected in primary sources of the era such as American Newspapers.
 
 ## Sources
+
+* [Japanese Admiral Togo's Report of the Battle of Tsushima](https://web.archive.org/web/20100820070000/http://www.russojapanesewar.com/togo-aar3.html)
+* [Washington Times Article from May 29, 1905](https://chroniclingamerica.loc.gov/lccn/sn84026749/1905-05-29/ed-1/seq-1/#words=TOGO+SWEEPS+FOE)
+* [The Russo-Japanese War - Primary Causes of Japanese Success](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2203&context=nwc-review)
+* [The Battle of Tsu-shima](https://archive.org/details/battleoftsushima00semerich)
