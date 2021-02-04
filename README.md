@@ -1,5 +1,7 @@
 # Battle of Tsushima
 
+#### Created by Tanav, Oliver, and Andy
+
 The Battle of Tsushima was one of the first times a western power was decisively defeated by a non-Western power at sea. Additionally, it was the first major engagement between steel-hulled vessels in history, and one of the most famous uses of "crossing the T" (bringing one's own guns to bear on the enemy while the enemy can only return fire with their front turrets).
 
 ## Before Tsushima
@@ -56,7 +58,16 @@ Additionally, the Japanese (and Western forces alike) placed heavy **emphasis on
 
 ## Sources
 
-* [Japanese Admiral Togo's Report of the Battle of Tsushima](https://web.archive.org/web/20100820070000/http://www.russojapanesewar.com/togo-aar3.html)
-* [Washington Times Article from May 29, 1905](https://chroniclingamerica.loc.gov/lccn/sn84026749/1905-05-29/ed-1/seq-1/#words=TOGO+SWEEPS+FOE)
-* [The Russo-Japanese War - Primary Causes of Japanese Success](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2203&context=nwc-review)
-* [The Battle of Tsu-shima](https://archive.org/details/battleoftsushima00semerich)
+Heihachirō, Tōgō. “Admiral Togo's Report Of The Battle Of Tsushima,” Tokyo: The Imperial Naval Headquarters Staff.
+
+Klado, Nikolaĭ. “The Russian Navy in the Russo-Japanese War,” trans. L. J. H. Dickinson (London: Hurst and Blackett, 1905), vi.
+
+Kobayashi, Kiyochika. *A Russian General, Shaking with fear, Telephones the Czar who is also Being Annoyed by the Czarina*, 1904/1905. Woodcut, color. 37 x 24.9 cm. Library of Congress, Washington D.C..
+
+Novicow, Jacques. “Le péril Jaune,” in V. Giard & E. Brière, eds., Revue Internationale de Sociologie (Paris: V. Giard & E. Brière Libraires-Éditeurs, 1897).
+
+“Togo Sweeps Foe From the Sea,” Washington Times, May 29, 1905.
+
+Torajiro, Kasai. *Ryojunkō gai daikaisen shinzu sononi rokoku kantai no haisen*, 1904. Chromolithograph. 47.3 x 61.8 cm. Library of Congress, Washington D.C..
+
+Underwood & Underwood. *A Dead War Monster--Russian Battleship 'Peresviet' Wrecked by Japanese Shells, Port Arthur Harbor*, 1905. Photographic print on stereo card. Library of Congress, Washington D.C..
