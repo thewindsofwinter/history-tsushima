@@ -1,3 +1,7 @@
+# Battle of Tsushima
+
+The Battle of Tsushima was one of the first times a western power was decisively defeated by a non-Western power at sea. Additionally, it was the first major engagement between steel-hulled vessels in history, and one of the most famous uses of "crossing the T" (bringing one's own guns to bear on the enemy while the enemy can only return fire with their front turrets).
+
 ## Before Tsushima
 
 !["Cutout from a newspaper depicting the war"](map.jpg)
@@ -9,6 +13,24 @@ Falling behind, Russia decided to deploy a second Squadron, which they called th
 Continuing the journey to the far east, the Second Pacific Squadron sailed around Africa, and stopped at Madagascar. The long journey was a difficult one, with a constant struggle of obtaining fuel, taking a toll on the crew and lowering morale. 
 
 Following the Siege of Port Arthur, one of the most violent battles of the war, the Second Pacific Squadron headed from Madagascar to Vladivostok to join the rest of the fleet. As this was following an extremely long journey, the Russian fleet had deteriorated significantly, leaving it in an unfavorable condition. The Second Squadron sailed through the Tsushima Strait on this journey, which is where a Japanese cruiser spotted them. Radio messages kept the Japanese Captains connected, however they were intercepted by the Russians and therefore alerted the Russians that they had been spotted. Both sides then began to prepare for battle.
+
+## The Battle
+
+At 5am on May 27th, 1905, after sending a radio message that the Russian Squadron had been spotted, the Japanese Naval forces assembled and prepared to attack the Squadron. Although there was thick fog, the Japanese forces kept in regular communication via radio messages. 
+
+From 7 through 11am, Japanese ships started to enter the line of sight of the Russian fleet, reporting amongst one another details regarding the enemies’ whereabouts amidst unfavorable weather conditions. After trailing the Russian fleet for a few hours, orders were given at 2pm to prepare to engage in battle.
+
+At 2:08pm, a Russian ship opened fire upon the Japanese main squadron, starting the skirmish between the two forces. As the two navies approached closer, the firepower of each proved to be more effective. After 45 minutes of engagement, the Japanese fleet had already proved to be more successful than the Russians in inflicting damage.
+
+As the day carried on, the Russian fleet suffered great losses, especially with the Oslyabya and the Knyaz Suvorov, at the hands of the Japanese. While a few ships did sustain considerable damage on the Japanese side, major ships were able to escape most of the brunt of the damage and emerge relatively unharmed. As night began to settle down, Japanese ships were able to sink a few more Russian vessels before ceasing to follow the opposing side’s retreat.
+
+As night fell, the Japanese torpedo and destroyer sections took action against Russian ships with the advantage of having an element of surprise. Russian formations quickly fell apart, leading to even more catastrophic consequences for their vessels to respond appropriately to the barrage of Japanese attacks. While Japanese losses were also considerably higher during the night raid, numerous Russian ships were rendered unusable following the attack.
+
+By the next morning, the main Russian fleet under the command of Rear Admiral Nebogatov had surrendered after being surrounded by Japanese forces. While skirmishes continued throughout the day with some ships attempting to escape the previous surrender, the battle was all but over in a decisive Japanese victory.
+
+## Newspaper Article From Battle
+
+!["News Article Announces Russian Defeat, Washington Times](sn84026749-19050529.jpg)
 
 ## Aftermath of Tsushima
 
