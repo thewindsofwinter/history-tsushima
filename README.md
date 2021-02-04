@@ -1,6 +1,6 @@
 ## Before Tsushima
 
-!["Cutout from a newspaper depicting the war"](news.jpg)
+!["Cutout from a newspaper depicting the war"](map.jpg)
 
 The Russo-Japanese War began in February of 1904 when the Japanese Navy attacked a Russian Naval Fleet at Port Arthur. Both sides scaled up their operations to prepare for the war, but Russian force suffered greatly from the death of one of their key Admirals, Admiral Stepan Makarov. 
 
